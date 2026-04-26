@@ -8,6 +8,7 @@ public class Estudiante {
 
 
     //Variable stática: Compartida por todos los estudiantes
+    
     private static int totalEstudiantes = 0;
 
     public Estudiante() {
